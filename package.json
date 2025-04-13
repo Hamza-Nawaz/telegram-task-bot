@@ -1,0 +1,16 @@
+{
+  "name": "telegram-task-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "description": "A Telegram bot for managing tasks, built with Node.js and the node-telegram-bot-api library. Add, view, complete, and remove tasks using an intuitive keyboard interface.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
